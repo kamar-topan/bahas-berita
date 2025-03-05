@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kamar-topan.github.io/bahas-berita/sitemap.xml
